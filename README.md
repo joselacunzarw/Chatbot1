@@ -84,7 +84,7 @@ def retrieve_document(query):
 
 ## Contribuciones
 
-Contribuciones al proyecto son bienvenidas. Por favor, considera mejorar la eficiencia del procesamiento o agregar soporte para más formatos de documentos.
+Contribuciones al proyecto son bienvenidas
 
 ## Licencia
 despues veremos
